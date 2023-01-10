@@ -28,15 +28,16 @@ https://materializecss.com/
 
 ## Credits
 
-https://github.com/MoMoncada
+https://github.com/stephaneeh
 
 https://github.com/zhou7cathy
 
 ## License
 
-MIT
+None
+
 
 ## Link to deployed application
 
-https://stephaneeh.github.io/travelpedia-app/
+
 
