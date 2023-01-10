@@ -39,5 +39,7 @@ None
 
 ## Link to deployed application
 
+https://momoncada.github.io/travelpedia-app/
+
 
 
